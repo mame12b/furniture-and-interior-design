@@ -44,11 +44,6 @@ const Hero = React.forwardRef((props, ref) => {
         <h2 className="mb-[30px] max-w-[672px] mx-auto lg:mb-[65px] lg:text-xl opacity-80">
           {/* {subtitle} */}
         </h2>
-        {/* button */}
-        {/* <button className="bg-[var(--btn-light)] hover:bg-[var(--btn-light)] backdrop-blur-md p-2 px-9 mb-[159px] rounded-md transition lg:px-[80px] lg:py-[16px] lg:mb-[194px] lg:text-xl">
-          {buttonText}
-        </button> */}
-        {/* Stats */}
       </div>
     </section>
   );
