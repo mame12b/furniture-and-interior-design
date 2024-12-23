@@ -1,6 +1,4 @@
 import React, { useEffect, useRef } from "react";
-import { MapContainer, Marker, TileLayer } from '@react-google-maps/api';
-
 
 
 const LocationMap = () => {

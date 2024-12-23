@@ -1,8 +1,8 @@
 // src/components/AnimatedText.js
-//import React from 'react';
+
 import styled from 'styled-components';
-import React, { useState, useEffect } from 'react';
-import Hero from './Hero';
+import React from 'react';
+
 
 
 const StyledText = styled.h2`

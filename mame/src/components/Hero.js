@@ -1,6 +1,6 @@
 //import  React  from "react";
 import { hero } from "../data";
-import styled from 'styled-components';
+
 import React, { useState, useEffect } from 'react';
 import AnimatedText from './AnimatedText'; // Correct import path
 import { heroData } from '../data'; // Assuming heroData is exported from data.js
