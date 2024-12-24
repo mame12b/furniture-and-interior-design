@@ -42,7 +42,7 @@ export const navigation = [
 export const hero = {
   // title: "Creative Home Simplify your Furniture",
   
-  title: "LYAN Furniture And Interior Design",
+  // title: "LYAN Furniture And Interior Design",
  
 
 };
@@ -84,7 +84,7 @@ export const features = {
   image: <Homep />,
   title: "About Us",
   subtitle:
-    <p>Welcome to Shubbak Technical Services LLC, your partner for innovative and reliable technical solutions.
+    <p>Welcome to LYAN Furniture and Interior Design, your partner for innovative and reliable Interior Design.
        With five years of experience, we've built a reputation for excellence in the industry.<br/>
        <b> Our mission </b> We're committed to delivering exceptional customer service, timely solutions, and results that exceed expectations.
         Our team of skilled professionals brings a wealth of expertise to every project. 
@@ -99,19 +99,19 @@ export const features = {
      items: [
       {
         icon: <IoIosCheckmarkCircle />,
-        title: "ALUMINUM & GLASS FABRICATION",
+        title: "FURNITURE",
         subtitle:
           "Description: WE CRAFT ALL TYPES OF ART WORK IN HOUSE WITH OUR SPECIALIST IN PERTICULAR FIELD."
               },
       {
         icon: <IoIosCheckmarkCircle />,
-        title: "STAINGLASS, SANDBLASTING GLASS, FIBERGLASS, STEEL RALLINGS",
+        title: "SOFA, BED, DINNING TABLE, OUTDOOR CHAIR",
         subtitle:
-          "Description: WE UNDER TAKE ALL TYPE OF GYPSON PARTITON AND PAINTING WORK AND TILES WORK,INTERLOCK AND CARPENTORY WORKS",
+          "Description: WE UNDER TAKE ALL TYPE OF ORDER AND WILL PREPARE WHAT YOU WANT",
       },
       {
         icon: <IoIosCheckmarkCircle />,
-        title: "FOUNDATION ,FOOTING , MACHINE BASE , HOLDING FOUNDATION",
+        title: "HOME INTERIOR ,OFFICE INTERIOR,AND EVENT DECORATION",
         subtitle:
           "Description: We undertake all type of concert work , steel structures ",
       },
